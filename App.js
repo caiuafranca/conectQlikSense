@@ -9,9 +9,11 @@ class App extends React.Component {
     }
 
     render() {
-        return <div>
-            <h1 class="title">Nosso boilerplate de React</h1>
-        </div>;
+        return (
+            <div>
+                <h1 class="title">Aplicação Base para desenvolvimento Mashup</h1>
+            </div>
+        );
     }
 }
 
