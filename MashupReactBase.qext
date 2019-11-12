@@ -1,0 +1,11 @@
+{
+    "type": "mashup",
+    "name": "Mashup React Base",
+    "description": "Mashup para fins de treinamento",
+    "version": "1.0.0",
+    "author": "Caiua França",
+    "keywords": "qlik-sense, visualization, mashup",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+	 }
+}
