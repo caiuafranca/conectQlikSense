@@ -1,6 +1,6 @@
 {
     "type": "mashup",
-    "name": "MashupReactBase",
+    "name": "conectQlik",
     "description": "Mashup para fins de treinamento",
     "version": "1.0.0",
     "author": "Caiua França",
